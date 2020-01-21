@@ -19,7 +19,7 @@ public class FormatterExample {
         try {
 
             // Creating FileHandler
-            fileHandler = new FileHandler("./javacodegeeks.formatter.log");
+            fileHandler = new FileHandler("./logDocs.log");
 
             // Creating SimpleFormatter
             simpleFormatter = new SimpleFormatter();
